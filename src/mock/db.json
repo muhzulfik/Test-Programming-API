@@ -1,0 +1,47 @@
+{
+	"Pegawai": {
+		"columns": [
+			{
+				"name": "name",
+				"caption": "Nama",
+				"width": 20
+			},
+			{
+				"name": "nip",
+				"caption": "NIP",
+				"width": 30
+			},
+			{
+				"name": "title",
+				"caption": "Jabatan",
+				"width": 50
+			}
+		],
+		"rows": [
+			{
+				"id": "a753019c-61a9-41c2-afc5-38a96901025e",
+				"nama": "Andi",
+				"nip": "20230101A001",
+				"jabatan": "Ketua"
+			},
+			{
+				"id": "6271cab0-27a0-4b62-b4d9-e03f4626b495",
+				"nama": "Budi",
+				"nip": "20230101A002",
+				"jabatan": "Anggota"
+			},
+			{
+				"id": "990e7d3c-8df8-4b24-bae3-a1d438f3b930",
+				"nama": "Charlie",
+				"nip": "20230101A003",
+				"jabatan": "Anggota"
+			},
+			{
+				"id": "f87fd474-252e-4c9d-8eb2-d140f2c057b3",
+				"nama": "Dedi",
+				"nip": "20230101A004",
+				"jabatan": "Anggota"
+			}
+		]
+	}
+}
